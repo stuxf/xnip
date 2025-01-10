@@ -1,2 +1,2 @@
-# x-nip
+# xnip
 Natural intelligence python snippets
