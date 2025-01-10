@@ -1,0 +1,23 @@
+yay
+
+
+
+input array sorted -> binary search, two pointers
+
+asked for all permutations/subsets -> backtracking
+
+given a tree -> DFS, BFS 
+
+if given a linked list then -> two pointers
+
+if !recursion -> stack
+
+if must solve in-place then -> Swap corresponding values, Store one or more different values in the same pointer
+
+if asked for maximum/minimum subarray/subset/options then -> Dynamic programming
+
+If asked for top/least K items then -> Heap, QuickSelect
+
+If asked for common strings then -> Map, Trie
+
+Else -> Map/Set for O(1) time & O(n) space, Sort input for O(nlogn) time and O(1) space
